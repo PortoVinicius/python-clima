@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obter condições meteriológicas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='static/style.css')}}">
+</head>
+
+<body>
+    <h1>Obter condições meteriológicas</h1>
+    <form action="/clima">
+        <input type="text" name="city" id="city" autocomplete="off" placeholder="Nome da Cidade">
+        <button type="submit">Pesquisar</button>
+    </form>
+</body>
+</html>

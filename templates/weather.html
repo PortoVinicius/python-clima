@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} Clima</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='static/style.css')}}">
+</head>
+
+<body>
+    <h1>{{ title }} Clima</h1>
+    <p>{{ status }} and {{ temp }} &deg;</p>
+    <p>Sensação Termica {{ feels_like }}&deg;</p>
+
+    <form action="/clima">
+        <input type="text" name="city" id="city" autocomplete="off" placeholder="Nome da Cidade">
+        <button type="submit">Pesquisar</button>
+    </form>
+</body>
+</html>
