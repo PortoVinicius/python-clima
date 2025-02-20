@@ -14,7 +14,7 @@ Este é um aplicativo simples em Python que utiliza a [OpenWeather API](https://
 Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
 
 - Python 3.x ou superior.
-- Conta na [WeatherAPI](https://www.weatherapi.com/), para obter a chave da API.
+- Conta na [OpenWeather API](https://home.openweathermap.org/), para obter a chave da API.
 
 ## Instalação
 
@@ -25,7 +25,7 @@ Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
 
 # WeatherApp - Informações Climáticas
 
-Este é um aplicativo simples em Python que utiliza a [Weather API](https://www.weatherapi.com/) para fornecer informações climáticas em tempo real para uma determinada localização. O aplicativo permite consultar a previsão do tempo atual, incluindo temperatura, umidade, condições climáticas e muito mais.
+Este é um aplicativo simples em Python que utiliza a [OpenWeather API](https://home.openweathermap.org/) para fornecer informações climáticas em tempo real para uma determinada localização. O aplicativo permite consultar a previsão do tempo atual, incluindo temperatura, umidade, condições climáticas e muito mais.
 
 ## Funcionalidades
 
@@ -39,7 +39,7 @@ Este é um aplicativo simples em Python que utiliza a [Weather API](https://www.
 Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
 
 - Python 3.x ou superior.
-- Conta na [WeatherAPI](https://www.weatherapi.com/), para obter a chave da API.
+- Conta na [OpenWeather API](https://home.openweathermap.org/), para obter a chave da API.
 
 ## Instalação
 
