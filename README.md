@@ -1,6 +1,6 @@
 # python-clima - Informações Climáticas
 
-Este é um aplicativo simples em Python que utiliza a [Weather API](https://www.weatherapi.com/) para fornecer informações climáticas em tempo real para uma determinada localização. O aplicativo permite consultar a previsão do tempo atual, incluindo temperatura, umidade, condições climáticas e muito mais.
+Este é um aplicativo simples em Python que utiliza a [OpenWeather API](https://home.openweathermap.org/) para fornecer informações climáticas em tempo real para uma determinada localização. O aplicativo permite consultar a previsão do tempo atual, incluindo temperatura, umidade, condições climáticas e muito mais.
 
 ## Funcionalidades
 
