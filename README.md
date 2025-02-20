@@ -42,4 +42,4 @@ Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
 
 ### Execute o script principal:
 
-    python app.py
+    python server.py
