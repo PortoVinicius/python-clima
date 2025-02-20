@@ -5,9 +5,8 @@ Este é um aplicativo simples em Python que utiliza a [OpenWeather API](https://
 ## Funcionalidades
 
 - Consultar a temperatura atual de uma cidade.
-- Obter a umidade, pressão atmosférica e a condição climática (ex: ensolarado, chuvoso).
-- Mostrar dados de previsão de tempo para os próximos dias.
-- Suporte a diferentes unidades de medida (Celsius, Fahrenheit, etc.).
+- Obter a condição climática (ex: ensolarado, chuvoso).
+- unidades de medida (Celsius).
 
 ## Requisitos
 
@@ -16,30 +15,6 @@ Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
 - Python 3.x ou superior.
 - Conta na [OpenWeather API](https://home.openweathermap.org/), para obter a chave da API.
 
-## Instalação
-
-1. Clone este repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/WeatherApp.git
-
-# WeatherApp - Informações Climáticas
-
-Este é um aplicativo simples em Python que utiliza a [OpenWeather API](https://home.openweathermap.org/) para fornecer informações climáticas em tempo real para uma determinada localização. O aplicativo permite consultar a previsão do tempo atual, incluindo temperatura, umidade, condições climáticas e muito mais.
-
-## Funcionalidades
-
-- Consultar a temperatura atual de uma cidade.
-- Obter a umidade, pressão atmosférica e a condição climática (ex: ensolarado, chuvoso).
-- Mostrar dados de previsão de tempo para os próximos dias.
-- Suporte a diferentes unidades de medida (Celsius, Fahrenheit, etc.).
-
-## Requisitos
-
-Antes de rodar o app, você precisa garantir que tenha os seguintes requisitos:
-
-- Python 3.x ou superior.
-- Conta na [OpenWeather API](https://home.openweathermap.org/), para obter a chave da API.
 
 ## Instalação
 
